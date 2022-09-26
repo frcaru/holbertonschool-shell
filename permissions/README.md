@@ -7,3 +7,4 @@
 6-multiple_permissions adds permissions to the file hello
 7-everybody adds execute permissions to all users on hello
 8-James_Bond adds 007 permission to hello
+9-John_Doe adds -rwxr-x-wx permission to hello
