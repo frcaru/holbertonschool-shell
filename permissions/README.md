@@ -9,3 +9,4 @@
 8-James_Bond adds 007 permission to hello
 9-John_Doe adds -rwxr-x-wx permission to hello
 10-mirror_permissions hello's permissions = olleh's one
+11-directories_permissions adds x permissions for all to all subdirectories
