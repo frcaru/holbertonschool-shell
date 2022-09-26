@@ -11,3 +11,4 @@
 10-mirror_permissions hello's permissions = olleh's one
 11-directories_permissions adds x permissions for all to all subdirectories
 12-directory_permissions creates my_dir with 751 permissions
+13-change_group changes the group owner to school for hello
