@@ -12,3 +12,4 @@
 11-directories_permissions adds x permissions for all to all subdirectories
 12-directory_permissions creates my_dir with 751 permissions
 13-change_group changes the group owner to school for hello
+14-change_owner_and_group changes owner = vincent and group = staff all files 
