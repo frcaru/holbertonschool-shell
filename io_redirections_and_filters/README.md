@@ -12,4 +12,5 @@
 11-directories counts them in the current one
 12-newest_files displays the 10th newest files of .
 13-unique prints only unique lines
-14-findhatword displays lines containinng "root"  
+14-findhatword displays lines containinng "root"
+15-countthatword displays nuber of lines with "bin" 
