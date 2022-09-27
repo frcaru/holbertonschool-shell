@@ -18,3 +18,4 @@
 17-hidethisword displays all lines except those with "bin"
 18-letteronly displays all lines starting with a letter
 19-AZ translates A to Z, c to e
+20-hiago deletes all c and C
