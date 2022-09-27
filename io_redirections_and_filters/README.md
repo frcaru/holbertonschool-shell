@@ -15,4 +15,5 @@
 14-findhatword displays lines containinng "root"
 15-countthatword displays nuber of lines with "bin"
 16-whatsnext displays lines with "root" and 3lines after
-17-hidethisword displays all lines except those with "bin" 
+17-hidethisword displays all lines except those with "bin"
+18-letteronly displays all lines starting with a letter
