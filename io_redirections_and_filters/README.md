@@ -19,3 +19,4 @@
 18-letteronly displays all lines starting with a letter
 19-AZ translates A to Z, c to e
 20-hiago deletes all c and C
+21-reverse 
