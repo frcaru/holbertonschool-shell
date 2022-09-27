@@ -17,3 +17,4 @@
 16-whatsnext displays lines with "root" and 3lines after
 17-hidethisword displays all lines except those with "bin"
 18-letteronly displays all lines starting with a letter
+19-AZ translates A to Z, c to e
