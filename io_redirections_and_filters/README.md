@@ -9,3 +9,4 @@
 8-cwd_state writes ls -la result into ls_cwwd_content
 9-duplicate_last_line of iacta
 10-no_more_js deletes all .js files
+11-directories counts them in the current one 
