@@ -10,4 +10,5 @@
 9-duplicate_last_line of iacta
 10-no_more_js deletes all .js files
 11-directories counts them in the current one
-12-newest_files displays the 10th newest files of . 
+12-newest_files displays the 10th newest files of .
+13-unique prints only unique lines 
