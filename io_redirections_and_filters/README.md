@@ -22,3 +22,4 @@
 21-reverse
 22-users_and_homes displays all users and their home directory
 23-empty_casks displays all empty files and directories
+24-gifs finds .gif files
